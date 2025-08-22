@@ -1,6 +1,3 @@
-# poo-demo
-Demostracion de Teoremas de Programacion Orientada a Objetos
-
 # Programación Orientada a Objetos en ASP.NET Core (API + Swagger + Postman)
 
 Este proyecto implementa los **4 principios de la Programación Orientada a Objetos (POO)** usando un **API ASP.NET Core** con endpoints visibles en **Swagger** y consultables mediante **Postman**.
